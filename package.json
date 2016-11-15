@@ -2,11 +2,6 @@
   "name": "expr-eval",
   "version": "0.13.0",
   "description": "Mathematical expression evaluator",
-  "dependencies": {},
-  "devDependencies": {
-  },
-  "scripts": {
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tomreinartz90/expr-eval.git"
@@ -19,6 +14,7 @@
     "function",
     "parser"
   ],
+  "main": "./parser.js",
   "author": "Matthew Crumley, Tom Reinartz",
   "license": "MIT",
   "bugs": {
