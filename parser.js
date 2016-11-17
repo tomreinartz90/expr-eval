@@ -1165,6 +1165,6 @@ var Parser = (function () {
   return Parser;
 }());
 
-var module = module = {};
-var exports = module.exports = {};
+// var module = module = {};
+// var exports = module.exports = {};
 exports.Parser = Parser;
